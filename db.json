@@ -1,0 +1,36 @@
+{
+  "employee": [
+    {
+      "name": "Myke Shale",
+      "email": "mykeshale@gmail.com",
+      "phone": "0792099302",
+      "active": true,
+      "id": 1
+    },
+    {
+      "name": "Jay Ming",
+      "email": "jayming@gmail.com",
+      "phone": "98899090",
+      "active": true,
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Alison Robert",
+      "email": "alisonrobert@gmail.com",
+      "phone": "0712233445"
+    },
+    {
+      "id": 4,
+      "name": "Kane Williamson",
+      "email": "kwilliamson@gmail.com",
+      "phone": "0112233456"
+    },
+    {
+      "id": 5,
+      "name": "Dennin Israel",
+      "email": "dennisisraelm@gmail.com",
+      "phone": "0115783456"
+    }
+  ]
+}
